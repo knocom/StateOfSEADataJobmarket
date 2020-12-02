@@ -1,7 +1,7 @@
 # StateOfSEADataJobmarket
 Comparing the State of the Data Job Market across Southeast Asia (Eskwelabs Capstone Cohort V)
 
-Team Members: Gab, Jelly, Nox, JB
+Team Members: [Gab](https://github.com/Onggabby), [Jelly](https://github.com/jeareyes17), Nox, JB
 
 [Slide Presentation](https://docs.google.com/presentation/d/1UPlpgvOOQlDAA2gKCpJ3IKBSm-R1gfY61ABfMOxieI4)
 
