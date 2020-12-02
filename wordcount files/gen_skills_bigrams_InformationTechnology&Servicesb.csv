@@ -1,0 +1,11 @@
+bigrams,count
+"('machine', 'learning')",336
+"('data', 'analysis')",152
+"('big', 'data')",152
+"('data', 'mining')",132
+"('data', 'visualization')",111
+"('business', 'intelligence')",97
+"('analysis', 'data')",92
+"('data', 'warehouse')",83
+"('deep', 'learning')",75
+"('data', 'analytics')",71

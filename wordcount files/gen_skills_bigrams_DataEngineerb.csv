@@ -1,0 +1,11 @@
+bigrams,count
+"('big', 'data')",83
+"('machine', 'learning')",54
+"('data', 'warehouse')",53
+"('software', 'development')",34
+"('data', 'processing')",34
+"('data', 'analysis')",32
+"('data', 'engineering')",31
+"('data', 'warehousing')",27
+"('data', 'mining')",27
+"('data', 'pipelines')",26
